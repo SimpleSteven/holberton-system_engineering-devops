@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R drwx--x--x
+chmod -R d--x--x--x
