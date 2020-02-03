@@ -1,0 +1,18 @@
+total 20
+drwxrwxrwx 1 adduser adduser  4096 Feb  2 21:12 .
+drwxrwxrwx 1 adduser adduser  4096 Feb  2 15:50 ..
+-rw------- 1 adduser adduser 12288 Feb  2 20:33 .echo.swp
+-rwxrw-rw- 1 adduser adduser    32 Feb  2 16:15 0-hello_world
+-rwxrwxrwx 1 adduser adduser    28 Feb  2 16:47 1-confused_smiley
+-rwxrw-rw- 1 adduser adduser    28 Feb  2 16:47 2-hellofile
+-rwxrw-rw- 1 adduser adduser    39 Feb  2 16:51 3-twofiles
+-rwxrw-rw- 1 adduser adduser    35 Feb  2 16:47 4-lastlines
+-rwxrw-rw- 1 adduser adduser    35 Feb  2 16:56 5-firstlines
+-rwxrw-rw- 1 adduser adduser    41 Feb  2 17:54 6-third_line
+-rwxrw-rw- 1 adduser adduser   167 Feb  2 21:03 7-file
+-rwxrw-rw- 1 adduser adduser    59 Feb  2 21:11 8-cwd_state
+-rw-rw-rw- 1 adduser adduser    23 Feb  2 16:06 README.md
+-rwxrw-rw- 1 adduser adduser    41 Feb  2 15:56 git
+-rw-rw-rw- 1 adduser adduser   933 Feb  2 21:10 h
+-rw-rw-rw- 1 adduser adduser    19 Feb  2 21:02 iacta
+-rw-rw-rw- 1 adduser adduser     0 Feb  2 21:12 ls_cwd_content
