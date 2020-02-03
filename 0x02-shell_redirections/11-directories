@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 find . ! -path . */ | wc -l
+=======
+ls -R */ | wc -l
+>>>>>>> 91f201d7c45e8733cae948c1fcd147b27ae0ce0f
