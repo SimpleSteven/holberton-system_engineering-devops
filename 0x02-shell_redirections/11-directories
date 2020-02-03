@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -Ra */ | wc -l
+find . ! -path . */ | wc -l
