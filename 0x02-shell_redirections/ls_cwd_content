@@ -16,3 +16,24 @@ drwxrwxrwx 1 adduser adduser  4096 Feb  2 15:50 ..
 -rw-rw-rw- 1 adduser adduser   933 Feb  2 21:10 h
 -rw-rw-rw- 1 adduser adduser    19 Feb  2 21:02 iacta
 -rw-rw-rw- 1 adduser adduser     0 Feb  2 21:12 ls_cwd_content
+==> ls_cwd_content <==
+-rwxrw-rw- 1 adduser adduser    35 Feb  2 16:47 4-lastlines
+-rwxrw-rw- 1 adduser adduser    35 Feb  2 16:56 5-firstlines
+-rwxrw-rw- 1 adduser adduser    41 Feb  2 17:54 6-third_line
+-rwxrw-rw- 1 adduser adduser   167 Feb  2 21:03 7-file
+-rwxrw-rw- 1 adduser adduser    59 Feb  2 21:11 8-cwd_state
+-rw-rw-rw- 1 adduser adduser    23 Feb  2 16:06 README.md
+-rwxrw-rw- 1 adduser adduser    41 Feb  2 15:56 git
+-rw-rw-rw- 1 adduser adduser   933 Feb  2 21:10 h
+-rw-rw-rw- 1 adduser adduser    19 Feb  2 21:02 iacta
+-rw-rw-rw- 1 adduser adduser     0 Feb  2 21:12 ls_cwd_content
+-rwxrw-rw- 1 adduser adduser    35 Feb  2 16:47 4-lastlines
+-rwxrw-rw- 1 adduser adduser    35 Feb  2 16:56 5-firstlines
+-rwxrw-rw- 1 adduser adduser    41 Feb  2 17:54 6-third_line
+-rwxrw-rw- 1 adduser adduser   167 Feb  2 21:03 7-file
+-rwxrw-rw- 1 adduser adduser    59 Feb  2 21:11 8-cwd_state
+-rw-rw-rw- 1 adduser adduser    23 Feb  2 16:06 README.md
+-rwxrw-rw- 1 adduser adduser    41 Feb  2 15:56 git
+-rw-rw-rw- 1 adduser adduser   933 Feb  2 21:10 h
+-rw-rw-rw- 1 adduser adduser    19 Feb  2 21:02 iacta
+-rw-rw-rw- 1 adduser adduser     0 Feb  2 21:12 ls_cwd_content
