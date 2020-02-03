@@ -1,2 +1,2 @@
 #!/bin/bash
-find . ! -path . */ | wc -l
+find . ! -path "." */ | wc -l
